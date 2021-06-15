@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#717C76</color>
+    <color name="colorPrimaryDark">#7C4E5E</color>
+    <color name="colorAccent">#4B2937</color>
+    <color name="headercolor">#302F2B</color>
+    <color name="text_color">#00E89F</color>
+
+    <color name="message_color_right">#1496BC</color>
+
+    <color name="message_color_left">#585757</color>
+
+</resources>
